@@ -4,7 +4,7 @@ description: "Ph.D. Candidate, University of Michigan–Dearborn"
 theme: jekyll-theme-minimal
 ---
 
-<img src="photo.jpg" alt="Zhengquan Li" width="180" align="right" style="border-radius:10px; margin-left:20px; margin-bottom:10px;">
+<img src="photo.png" alt="Zhengquan Li" width="180" align="right" style="border-radius:10px; margin-left:20px; margin-bottom:10px;">
 
 # Zhengquan Li (Jacky)
 **Ph.D. Candidate, Computer and Information Science**  
